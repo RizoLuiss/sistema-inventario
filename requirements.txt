@@ -1,0 +1,4 @@
+tkinter>=8.6
+pillow>=9.0.0
+reportlab>=3.6.0
+pytz>=2022.1
